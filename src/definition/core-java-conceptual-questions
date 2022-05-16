@@ -1,7 +1,7 @@
 Please answer the below core-java Questions:
 
 What is programing language?
-A.
+A. programing  language is fun
 
 
 
@@ -24,25 +24,46 @@ A.
 
 
 Explain the entire java life cycle.
+
+
 what is class?
+
 What is object?
+
 What is the entry point of an application?
+
 Why main is static?
+
 Which class is the superclass of all classes?
+
 What is difference between path and classpath variables?
+
 What is the difference between an Interface and Abstract class?
+
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+
 what is Access Specifier?
+
 What is OOP ? Define each feature of java OOP.
+
 What is Java Package and which package is imported by default?
+
 What is API? Name list of API that you have used so far.
+
 Does java support multiple inheritance, explain why or why not?
+
 What is method overloading and when it happens?
+
 Explain exceptions in java and how to handle it.
+
 What is static keyword in java? How it has been used in variables and methods ?
+
 What is final and how it has been used variables and methods?
+
 What is final, finally and finalize?
+
 What is a constructor ?
+
 Can we have multiple constructors in a class?
 If we don't have a constructor declared, what is called during the object creation?
 What is "this" keyword in java ?
